@@ -1,6 +1,7 @@
 # Pointers-in-cpp
 
-**Aim:** To study and implement pointer concepts in C++.                  
+**Aim:** To study and implement pointer concepts in C++.
+
 **Tools:** VS code              
 
 # Theory:-
